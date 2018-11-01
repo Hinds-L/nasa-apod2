@@ -1,4 +1,4 @@
-package edu.cnm.deepdive.nasa_apod;
+package edu.cnm.deepdive.nasaapod;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
